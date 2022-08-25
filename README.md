@@ -5,7 +5,7 @@
 * 🌍 I am currently sharing a little bit of my knowledge to the world through my YouTube channel and open source communities
 * 📫 How to find me:
 * 💡 Discord Community
-***🏢 LinkedIn
-*** 🔈 Youtube
+***🏢 LinkedIn***
+***🔈 Youtube***
 * 🔭 I’m currently working on AI
 * 💬 Ask me about Artificial Intelligence and Programming
