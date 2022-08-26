@@ -8,8 +8,6 @@
 * --💡 Discord Community --
 * --🏢 LinkedIn --
 * --🔈 Youtube --
-* 🔭 I’m currently working on AI
-* 💬 Ask me about Artificial Intelligence and Programming
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=payalrajguru&label=Profile%20views&color=0e75b6&style=flat" alt="payalrajguru" /> </p>
