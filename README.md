@@ -1,7 +1,7 @@
 ### Hi there, this is Payal Rajguru👋
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-* ⚡ I love math and machine learning
+* ⚡ I love physics and machine learning
 * 🌱 I’m addicted to learn and grow every day
 * 🌍 I am currently sharing a little bit of my knowledge to the world through my YouTube channel @Discover Physics
 * 📫 How to find me:
